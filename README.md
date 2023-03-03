@@ -1,16 +1,26 @@
-### Hi there 👋
 
-<!--
-**brzyfree/brzyfree** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+[![Header](https://pixabay.com/images/id-3440450/ "Header")](https://some-url.com/)
 
-Here are some ideas to get you started:
+I'm Kaylee, a career transitioning student based in Washington. Welcome to my GitHub profile!
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## 🌱 About Me
+
+- 🔭 I’m currently completing a CS certificate from St. Martin's University.
+- 🌱 I’m currently learning MERN stack.
+- 👯 I’m looking to collaborate on anything!
+- 🤔 I’m looking for help with making the transition from non-profit operations to software development.
+- 📫 How to reach me: LinkedIn
+- 😄 Pronouns: she/her.
+- ⚡ Fun fact: I love gardening!
+
+## 🚀 Languages and Tools
+
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=brzyfree&layout=compact)](https://github.com/brzyfree/github-readme-stats)
+
+## 📊 GitHub Stats
+
+[![Kaylee's GitHub stats](https://github-readme-stats.vercel.app/api?username=brzyfree&show_icons=true&theme=synthwave)](https://github.com/brzyfree/github-readme-stats)
+
+## 🤝 Connect with Me
+
+[![LinkedIn](https://img.shields.io/badge/-kayleekenison-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/kayleekenison/)](https://www.linkedin.com/in/kayleekenison/)
