@@ -1,7 +1,7 @@
 
 [![Header](https://github.com/brzyfree/brzyfree/blob/main/storm.png "Header")](https://some-url.com/)
 
-I'm Kaylee, a career transitioning student based in Washington. Welcome to my GitHub profile!
+Hi! I'm Kaylee, a career transitioning student based in Washington. Welcome to my GitHub profile!
 
 ## 🌱 About Me
 
