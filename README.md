@@ -6,7 +6,7 @@ Hi! I'm Kaylee, a career transitioning student based in Washington. Welcome to m
 ## 🌱 About Me
 
 - 🔭 I’m currently completing a CS certificate from St. Martin's University.
-- 🌱 I’m currently learning MERN stack.
+- 🌱 I’m currently learning Java.
 - 👯 I’m looking to collaborate on anything!
 - 🤔 I’m looking for help with making the transition from non-profit operations to software development.
 - 📫 How to reach me: LinkedIn
