@@ -1,17 +1,17 @@
 
 [![Header](https://github.com/brzyfree/brzyfree/blob/main/storm.png "Header")](https://some-url.com/)
 
-Hi! I'm Kaylee, a career transitioning student based in Washington. Welcome to my GitHub profile!
+Hi! I'm Kaylee. Welcome to my GitHub page!
 
 ## 🌱 About Me
 
-- 🔭 I’m currently completing a CS certificate from St. Martin's University.
-- 🌱 I’m currently learning Java.
-- 👯 I’m looking to collaborate on anything!
+- 🔭 I’m a US Army veteran, conservationist, and just completed a CS certificate from St. Martin's University.
+- 🌱 I’m currently studying for AWS certification.
+- 👯 I'm open to new opportunities, collaboration, and networking, especially on projects that have a positive social and environmental impact.
 - 🤔 I’m looking for help with making the transition from non-profit operations to software development.
 - 📫 How to reach me: LinkedIn
 - 😄 Pronouns: she/her.
-- ⚡ Fun fact: I love gardening!
+- ⚡ Fun fact: I grow food and flowers on a tiny farm in Washington.
 
 ## 🚀 Languages and Tools
 
